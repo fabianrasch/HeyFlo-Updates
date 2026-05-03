@@ -6,7 +6,7 @@
 
 <br>
 
-[**Download HeyFlo →**](https://github.com/fabianrasch/HeyFlo-Updates/releases/latest)
+[**Download HeyFlo →**](https://github.com/fabianrasch/HeyFlo-Updates/releases/latest/download/HeyFlo.dmg)
 
 *macOS 14+*
 
